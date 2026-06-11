@@ -10,7 +10,7 @@ This project was built in 48 hours for the **NASA Space Apps Challenge 2022** as
 
 View the project here:
 
-https://hayai1.github.io/iss-tracker/
+https://dylanpjhough.github.io/iss-tracker/
 
 ## Overview
 
